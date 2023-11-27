@@ -252,7 +252,11 @@ txt2 = "hello, I am Alex, I am 20 years old"
 y = txt2.split(", ")
 
 print(y)
-#%%
+#%%References
+#M.T. Goodrich, R. Tamassia, and M.H. Goldwasser, Data Structures and Algorithms in Python, Wiley, 2013 (“GTG”)
+#R. Johansson, Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib, Apress, 2019 (“Joh”)
+#J.V. Guttag, Introduction to Computation and Programming Using Python, third edition, The MIT Press, 2021
+#https://docs.python.org
 
 
 
