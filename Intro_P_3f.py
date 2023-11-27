@@ -109,6 +109,9 @@ new_guess = 0.5 * (old_guess + x / old_guess)
 #R. Johansson, Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib, Apress, 2019 (“Joh”)
 #J.V. Guttag, Introduction to Computation and Programming Using Python, third edition, The MIT Press, 2021
 #https://docs.python.org
+#For the assignments associated with this lecture (82-105-DS02, Introduction to Programming);
+#M.T. Goodrich, R. Tamassia, and M.H. Goldwasser, Data Structures and Algorithms in Python, Wiley, 2013 (“GTG”)
+#Prof. Marcel Oliver (Introduction to Programming, Winter Semester 2022/2023)
 
 
 
