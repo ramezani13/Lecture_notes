@@ -185,4 +185,4 @@ for x in range(2, 30):
 #https://docs.python.org
 #For the assignments associated with this lecture (82-105-DS02, Introduction to Programming);
 #M.T. Goodrich, R. Tamassia, and M.H. Goldwasser, Data Structures and Algorithms in Python, Wiley, 2013 (“GTG”)
-#Prof. Marcel Oliver (Introduction to Programming, Winter Semester 2022/2023)
+
